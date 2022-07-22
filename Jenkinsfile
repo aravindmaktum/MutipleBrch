@@ -7,4 +7,6 @@ pipeline {
                 echo 'Hello build dir in Main1.0'
                 deleteDir()
             }
-    }
+     }
+   }
+}
